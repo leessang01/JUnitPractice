@@ -21,6 +21,8 @@
         <module>iloveyouboss_11</module>
         <module>iloveyouboss_12</module>
         <module>iloveyouboss_13</module>
+        <module>iloveyouboss_14</module>
+        <module>iloveyouboss_15</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
