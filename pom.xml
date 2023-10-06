@@ -23,6 +23,8 @@
         <module>iloveyouboss_13</module>
         <module>iloveyouboss_14</module>
         <module>iloveyouboss_15</module>
+        <module>iloveyouboss_16-branch-persistence</module>
+        <module>iloveyouboss_16-branch-persistence-redesign</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
